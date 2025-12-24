@@ -10,6 +10,10 @@ A collaborative expense sharing application for managing shared costs among frie
 - Generate settlement reports
 - User-friendly interface
 
+
+<img width="1862" height="871" alt="image" src="https://github.com/user-attachments/assets/6770eff7-8b2a-45d9-a409-ea4ebfe8b289" />
+
+
 ## Installation
 
 ```bash
