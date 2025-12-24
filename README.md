@@ -2,6 +2,8 @@
 
 A collaborative expense sharing application for managing shared costs among friends and groups.
 
+Link for Preview:https://split-ease-zeta.vercel.app/
+
 ## Features
 
 - Create and manage shared expenses
